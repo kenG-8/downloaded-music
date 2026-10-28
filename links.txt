@@ -1,0 +1,8 @@
+# ====================================================================
+# DANH SÁCH LIÊN KẾT CẦN TẢI MP3 320KBPS
+# Mỗi dòng là một đường link YouTube hoặc TikTok (hoặc Shorts, Reels,...)
+# Các dòng có dấu # ở đầu sẽ được bỏ qua.
+# ====================================================================
+
+# https://www.youtube.com/watch?v=xxxxxxxx
+# https://vt.tiktok.com/xxxxxx/

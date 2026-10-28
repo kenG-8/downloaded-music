@@ -1,0 +1,4 @@
+yt-dlp>=2026.08.19
+static-ffmpeg>=3.0
+rich>=13.0.0
+mutagen>=1.47.0
